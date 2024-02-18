@@ -1,8 +1,5 @@
 <h2 align="left">Hi 👋! My name is Ashish Yadav and I'm a Web Developer, from Mumabi.</h2>
 
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
